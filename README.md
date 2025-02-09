@@ -1,4 +1,4 @@
-<p style="text-align: justify;"><img src="https://miro.medium.com/v2/resize:fit:3840/format:webp/1*XRH9-M27_bMeFmd4hVMYTw.png" alt="Docker-Image" width="1351" height="500" /></p>
+<p style="text-align: justify;"><img src="https://miro.medium.com/v2/resize:fit:3840/format:webp/1*XRH9-M27_bMeFmd4hVMYTw.png" alt="Docker-Image" width="1200" height="400" /></p>
 
 <p style="text-align: justify;">Welcome to my <strong>Docker Learning Repository!</strong> This repository is dedicated to documenting my journey of learning Docker and containerization. Docker is a powerful tool that helps developers build, package, and distribute applications in a lightweight, portable manner. This guide aims to cover the basics of Docker and provide resources for beginners looking to get started.</p>
 
